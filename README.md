@@ -1,6 +1,8 @@
-# Explore examples on ways to interact with a Large Language Models (LLMs) using Google Colab Notebooks.
+# LLM Notebooks
+A collection of practical examples exploring the potential of Large Language Models (LLMs) using Google Colab.
 
-Dive into notebooks covering topics like fine-tuning, prompt engineering, RAG, and more. Each notebook provides distinct insights, and you'll find a variety of examples from different sources, making llm-notebooks a valuable reference for the LLM community.
+## Description
+This repository serves as a central hub for hands-on examples and insights on interacting with Large Language Models (LLMs) 
 
 ## Colab Notebooks
 1. Fine-Tuning
